@@ -16,7 +16,7 @@ Image one shows the final webpage after the filters were added.
 
 _Image One: Website_
 
-image goes here
+![image](https://user-images.githubusercontent.com/74743437/116948353-25b4d780-ac4d-11eb-90b4-fc7dceaf650e.png)
 
 These are the steps to perform a search using the filters:
 
@@ -24,13 +24,13 @@ Step 1: The user will enter the date and the city they would like to display in 
 
 _Image Two: Filter search by date and city_
 
-image goes here
+![image](https://user-images.githubusercontent.com/74743437/116948382-35ccb700-ac4d-11eb-98ce-04b69bcdec1f.png)
 
 Step 2: The user can filter the search by adding a shape as shown in Image Three.
 
 _Image Three: Filter search by shape_
 
-image goes here
+![image](https://user-images.githubusercontent.com/74743437/116948474-69a7dc80-ac4d-11eb-9d7d-34004751faa9.png)
 
 **Summary**
 
