@@ -30,8 +30,7 @@ Step 2: The user can filter the search by adding a shape as shown in Image Three
 
 _Image Three: Filter search by shape_
 
-![image](https://user-images.githubusercontent.com/74743437/116948474-69a7dc80-ac4d-11eb-9d7d-34004751faa9.png)
-
+![image](https://user-images.githubusercontent.com/74743437/116948679-11250f00-ac4e-11eb-89de-2b2f5daa705a.png)
 **Summary**
 
 Although the webpage includes UFO sightings, a drawback is that it only includes information for the year 2010. A recommendation for further development of this webpage would be to include a calendar so that users can pick the date and month instead of typing it in. Another recommendation is to add a drop down button once clicked to allow users to pick the information. The current placeholder does a great job directing the user to the correct format for data entry.
